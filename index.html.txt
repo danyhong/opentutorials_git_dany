@@ -1,10 +1,6 @@
 <html>
 <header>
 <H1>Git</H1>
-<ul>
-<li>
-</li>
-</ul>
 </header>
 <head></head>
 <body>
