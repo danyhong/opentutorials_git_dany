@@ -1,5 +1,12 @@
 <html>
+<<<<<<< HEAD
 <header>
 <H1>Git</H1>
 </header>
 </html>
+=======
+<head></head>
+<body>
+</body>
+</html>
+>>>>>>> 테스트
