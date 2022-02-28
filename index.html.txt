@@ -2,8 +2,7 @@
 <header>
 <H1>Git</H1>
 <ul>
-<li>
-</li>
+<li>브랜치</li>
 </ul>
 </header>
 <head></head>
