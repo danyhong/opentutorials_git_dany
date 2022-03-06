@@ -5,6 +5,7 @@
 <li>브랜치</li>
 <li>브랜치1</li>
 <li>push.egoing</li>
+<li>push2.egoing</li>
 </ul>
 </header>
 <head></head>
